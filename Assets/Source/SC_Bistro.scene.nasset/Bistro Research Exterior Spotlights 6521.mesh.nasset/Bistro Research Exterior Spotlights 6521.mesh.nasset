@@ -1,0 +1,194 @@
+{
+    "guid": "c137c26c-9a37-c4c2-d057-5a453fa7ced6",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8a384f72-8211-1ea9-d50b-f1107094e16d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "5f0cb770-23d6-a125-e00c-613d938a24d8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Spotlights 6521 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "87b06666-be40-c60c-acb6-db52405d9740",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Spotlights 6521 Banner Metal Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "a866b32d-8c83-5f39-0380-634c7a26b110",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Spotlights 6521 Banner Metal"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0d5dc168-1389-bc16-cecb-db6cebe6a3e9",
+                                "material_instance": "6f92fbba-7a48-7bf5-4ec9-c5c02f8bef07"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "0d5dc168-1389-bc16-cecb-db6cebe6a3e9"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "fe36549e-fc9d-a183-897a-e3261d156066",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Spotlights 6521 Spotlight Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f84be1ef-9c70-37d9-6618-f2adf0d191a4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Spotlights 6521 Spotlight Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4ad45252-0bae-0b88-c9bb-aeda4aa576f2",
+                                "material_instance": "875561f1-e1ae-907f-fd20-d4511f222862"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "4ad45252-0bae-0b88-c9bb-aeda4aa576f2"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "3cd960fd-84de-60a6-08e2-6e3889efd655",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Spotlights 6521 Spotlight Emissive Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "958414cd-e28e-635a-c22a-0d3f0e68e5a0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Spotlights 6521 Spotlight Emissive"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0c98d1a6-da88-08e0-8e90-2d510ddf3ae0",
+                                "material_instance": "35b2688d-1f7c-5e5b-daed-b7ac22a78414"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "0c98d1a6-da88-08e0-8e90-2d510ddf3ae0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "50b5482e-c5c7-6c38-a762-0a5d28fba70d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Spotlights 6521 Spotlight Glass Emissive Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "4d8ae469-0ec1-600e-1b2b-cf6f9f349150",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Spotlights 6521 Spotlight Glass Emissive"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0285db9e-8e9b-efee-5fbe-977ce05cf8d6",
+                                "material_instance": "6977f7f4-3f42-63d6-9611-4748534d79c2"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "0285db9e-8e9b-efee-5fbe-977ce05cf8d6"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c137c26c-9a37-c4c2-d057-5a453fa7ced6"
+    },
+    "dependencies": [
+        "6f92fbba-7a48-7bf5-4ec9-c5c02f8bef07",
+        "0d5dc168-1389-bc16-cecb-db6cebe6a3e9",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "875561f1-e1ae-907f-fd20-d4511f222862",
+        "4ad45252-0bae-0b88-c9bb-aeda4aa576f2",
+        "35b2688d-1f7c-5e5b-daed-b7ac22a78414",
+        "0c98d1a6-da88-08e0-8e90-2d510ddf3ae0",
+        "6977f7f4-3f42-63d6-9611-4748534d79c2",
+        "0285db9e-8e9b-efee-5fbe-977ce05cf8d6"
+    ]
+}

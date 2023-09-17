@@ -1,0 +1,154 @@
+{
+    "guid": "49a231ce-ec82-d525-221b-af95bae49eb4",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "9697de25-7efc-2715-4645-b1d333cc5052",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "0d294899-dc0c-36e1-ade1-ab64a80d7e1c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris Aerial 01C 4057 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "c61d8f78-f55e-0afc-6d4f-65d7a7ded016",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris Aerial 01C 4057 Antenna Plastic Blue Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "e0195acb-c52a-30b7-e5e5-7d2784380d5b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris Aerial 01C 4057 Antenna Plastic Blue"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d45ebfae-5ab1-b38b-47c7-fd3b767c1110",
+                                "material_instance": "c2e27444-64f5-1398-a1b8-4a145a4042ab"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "d45ebfae-5ab1-b38b-47c7-fd3b767c1110"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "999911f1-7cb8-108b-c0fe-33ff37e6eb6b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris Aerial 01C 4057 Antenna Metal Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "e726f8f1-a7c5-762a-4619-6b0b72139690",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris Aerial 01C 4057 Antenna Metal"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5ee56bd3-ad43-52fa-ada3-77c098bd1c03",
+                                "material_instance": "dda8986d-70f9-d085-3fbc-d94e9da90785"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "5ee56bd3-ad43-52fa-ada3-77c098bd1c03"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "3f516b92-f324-cdc7-6027-7d65663fa88e",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris Aerial 01C 4057 Antenna Plastic Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "59093573-ec00-c02e-8d91-c24a0858a662",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris Aerial 01C 4057 Antenna Plastic"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f923ee93-3e56-e78a-24ae-6455ab4b85cd",
+                                "material_instance": "553b54dd-82b7-423f-1434-79af3dd3d0d4"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f923ee93-3e56-e78a-24ae-6455ab4b85cd"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "49a231ce-ec82-d525-221b-af95bae49eb4"
+    },
+    "dependencies": [
+        "c2e27444-64f5-1398-a1b8-4a145a4042ab",
+        "d45ebfae-5ab1-b38b-47c7-fd3b767c1110",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "dda8986d-70f9-d085-3fbc-d94e9da90785",
+        "5ee56bd3-ad43-52fa-ada3-77c098bd1c03",
+        "553b54dd-82b7-423f-1434-79af3dd3d0d4",
+        "f923ee93-3e56-e78a-24ae-6455ab4b85cd"
+    ]
+}

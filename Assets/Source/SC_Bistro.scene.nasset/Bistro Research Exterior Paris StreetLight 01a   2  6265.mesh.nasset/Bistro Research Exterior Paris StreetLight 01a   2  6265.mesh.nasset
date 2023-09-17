@@ -1,0 +1,194 @@
+{
+    "guid": "3806aa8a-f6cd-79c1-1bf4-e65f641ff806",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "dbfeecd7-5cf1-2eb4-65b1-9df34def2370",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "8edd9cf6-d4da-980e-dbeb-dfe370eb067e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris StreetLight 01a   2  6265 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "c1899d2e-a910-c173-7894-8a8d0a21f286",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris StreetLight 01a   2  6265 Streetlight Metal Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "347d002b-890f-51bc-3a49-9353e505d1f8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris StreetLight 01a   2  6265 Streetlight Metal"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6b5053cf-9c9a-7ffe-a10b-937b32d94ed2",
+                                "material_instance": "0d864ad9-b047-7b83-61a4-a631ee72dd0f"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "6b5053cf-9c9a-7ffe-a10b-937b32d94ed2"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "8d0e01a9-b582-c2f0-4381-fc1aca36ec26",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris StreetLight 01a   2  6265 Streetlight Chains Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "4c9af66e-0405-58c1-0cd4-c909e89f3b61",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris StreetLight 01a   2  6265 Streetlight Chains"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "85a1d316-7662-2424-430b-d8374b5cadf3",
+                                "material_instance": "8b6e22d1-e27c-3a19-f997-f4680792b413"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "85a1d316-7662-2424-430b-d8374b5cadf3"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "9168abb5-9f14-9380-d184-21fa31c9f0a8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris StreetLight 01a   2  6265 Paris StringLights 01 White Color Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3b52f2a7-1b8d-9bfd-bcb7-5d166969e5d3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris StreetLight 01a   2  6265 Paris StringLights 01 White Color"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e3d1b7b7-cecc-cdd9-ba60-c4640eb128c3",
+                                "material_instance": "e241c104-f329-453e-0ac1-c91cd22a654b"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e3d1b7b7-cecc-cdd9-ba60-c4640eb128c3"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "e1adfc81-1f1f-5c16-ea5a-a7ab2e3738af",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris StreetLight 01a   2  6265 Streetlight Support Bulb Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1cd31ae3-4fdc-7d1c-44f7-4d2dbd50c022",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris StreetLight 01a   2  6265 Streetlight Support Bulb"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "be9716a7-6400-036d-5cd5-3b9dcf64459c",
+                                "material_instance": "496a7fee-5151-68b5-3ffc-60028321103e"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "be9716a7-6400-036d-5cd5-3b9dcf64459c"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3806aa8a-f6cd-79c1-1bf4-e65f641ff806"
+    },
+    "dependencies": [
+        "0d864ad9-b047-7b83-61a4-a631ee72dd0f",
+        "6b5053cf-9c9a-7ffe-a10b-937b32d94ed2",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "8b6e22d1-e27c-3a19-f997-f4680792b413",
+        "85a1d316-7662-2424-430b-d8374b5cadf3",
+        "e241c104-f329-453e-0ac1-c91cd22a654b",
+        "e3d1b7b7-cecc-cdd9-ba60-c4640eb128c3",
+        "496a7fee-5151-68b5-3ffc-60028321103e",
+        "be9716a7-6400-036d-5cd5-3b9dcf64459c"
+    ]
+}

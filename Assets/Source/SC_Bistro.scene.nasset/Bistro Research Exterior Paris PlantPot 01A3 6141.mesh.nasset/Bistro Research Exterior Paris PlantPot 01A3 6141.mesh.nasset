@@ -1,0 +1,74 @@
+{
+    "guid": "a95cfb37-1fb3-fae5-0237-cb7dc3921047",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "66e7e5c5-ab4e-d15c-b126-953acf289a08",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a0003c0b-10c1-adf4-036f-4f95f6659b0d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris PlantPot 01A3 6141 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "ed48e818-66be-fcd2-92c7-b569fa5c2c7a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris PlantPot 01A3 6141 Plantpots Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "8fdf7ab3-30d1-9f5f-d997-aa93aa8fb057",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris PlantPot 01A3 6141 Plantpots"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "dbefa844-3e6b-ca0e-1da1-575ee912147e",
+                                "material_instance": "249aa3d7-be68-4769-3498-bb4be2181dca"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "dbefa844-3e6b-ca0e-1da1-575ee912147e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a95cfb37-1fb3-fae5-0237-cb7dc3921047"
+    },
+    "dependencies": [
+        "249aa3d7-be68-4769-3498-bb4be2181dca",
+        "dbefa844-3e6b-ca0e-1da1-575ee912147e",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

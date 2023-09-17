@@ -1,0 +1,114 @@
+{
+    "guid": "4053f834-1170-3bca-2cc9-4707919d315e",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6caf1a1e-1482-b44e-5d59-356c00a39b11",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "4f67e70d-295e-4e49-55c8-5001bf6b959d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior  lod0 Italian Cypress3 3927 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6a3c1921-485c-3bd2-40fc-1afb14e1526c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior  lod0 Italian Cypress3 3927 Foliage Leaves.DoubleSided Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "9e5a1025-1de6-c94c-ce48-283158f4c5c4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior  lod0 Italian Cypress3 3927 Foliage Leaves.DoubleSided"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b5ac6736-a8f8-5ecd-f773-c0aa5901bf60",
+                                "material_instance": "56d6b055-0d8e-a653-5d8b-b27cd4b0c9da"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "b5ac6736-a8f8-5ecd-f773-c0aa5901bf60"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "b0002cc2-a058-6a6a-188f-e34049ec663c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior  lod0 Italian Cypress3 3927 Foliage Trunk Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "0d2484e7-448c-203a-137c-cfbf59093599",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior  lod0 Italian Cypress3 3927 Foliage Trunk"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3ec16f1a-7d6b-3f81-a705-bde63d2ebbe6",
+                                "material_instance": "4f6c2413-1d0a-8c45-43b4-1e661d0dd45d"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "3ec16f1a-7d6b-3f81-a705-bde63d2ebbe6"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4053f834-1170-3bca-2cc9-4707919d315e"
+    },
+    "dependencies": [
+        "56d6b055-0d8e-a653-5d8b-b27cd4b0c9da",
+        "b5ac6736-a8f8-5ecd-f773-c0aa5901bf60",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "4f6c2413-1d0a-8c45-43b4-1e661d0dd45d",
+        "3ec16f1a-7d6b-3f81-a705-bde63d2ebbe6"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "guid": "4970f361-97fa-f173-7140-4f2cd85fffd1",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ce4a365e-74e5-8a0a-a38a-ee46c8a5716e",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ae54096e-9fe3-a1a4-524e-b5dd2421c0df",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris Building 08 paris buildi 9575be9 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "99643022-e9d8-aa44-7fbf-4d796c034301",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris Building 08 paris buildi 9575be9 MASTER Roofing Shingle Grey Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6193d61f-8a25-7053-6272-3df24d2697ca",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris Building 08 paris buildi 9575be9 MASTER Roofing Shingle Grey"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7eafbf00-9bb8-4010-9b5e-c4d439741f5b",
+                                "material_instance": "0dd9bdec-d7e5-bb8b-b0eb-cc3ac95f1a75"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7eafbf00-9bb8-4010-9b5e-c4d439741f5b"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4970f361-97fa-f173-7140-4f2cd85fffd1"
+    },
+    "dependencies": [
+        "0dd9bdec-d7e5-bb8b-b0eb-cc3ac95f1a75",
+        "7eafbf00-9bb8-4010-9b5e-c4d439741f5b",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

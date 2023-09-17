@@ -1,0 +1,154 @@
+{
+    "guid": "f30112a9-2b9a-821a-ea15-47d63033d2cb",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a32e9c90-757e-63df-d2ca-22db1dad161d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "f82cab50-522c-82e8-3448-eeae703fac79",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris LiquorBottle 01A  6083 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "3ba69dd4-e9f0-250b-6386-405f496c8da3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris LiquorBottle 01A  6083 Paris LiquorBottle 01 Glass Wine Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "5d987853-99f4-a606-0fe6-338e0cb23b9e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris LiquorBottle 01A  6083 Paris LiquorBottle 01 Glass Wine"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e46c7502-c1e6-d42d-8351-5befd4a85a50",
+                                "material_instance": "161eff97-4b63-4ca5-ee75-fdebf4f57865"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e46c7502-c1e6-d42d-8351-5befd4a85a50"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "f36f1005-0b05-813d-88a8-b4e377c88e1d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris LiquorBottle 01A  6083 Paris LiquorBottle 01 Caps Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "dfc3f4c3-9e1c-b677-8452-37e909befb2e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris LiquorBottle 01A  6083 Paris LiquorBottle 01 Caps"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e4f77c72-4998-1c38-68cd-2bd50710b16f",
+                                "material_instance": "db7ff72d-566a-d2c2-5c2d-87f12625bac8"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e4f77c72-4998-1c38-68cd-2bd50710b16f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "dff2d888-7a7f-7cc8-a754-307a91cedb34",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris LiquorBottle 01A  6083 Paris LiquorBottle 01 Labels Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "b1d61519-4f42-823a-4ecf-2e6cd69daf8b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris LiquorBottle 01A  6083 Paris LiquorBottle 01 Labels"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f5338966-cb5f-5af5-c050-6a15fc6ceb23",
+                                "material_instance": "0f2a2390-dc88-0119-5685-a64630c9ddf5"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f5338966-cb5f-5af5-c050-6a15fc6ceb23"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f30112a9-2b9a-821a-ea15-47d63033d2cb"
+    },
+    "dependencies": [
+        "161eff97-4b63-4ca5-ee75-fdebf4f57865",
+        "e46c7502-c1e6-d42d-8351-5befd4a85a50",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "db7ff72d-566a-d2c2-5c2d-87f12625bac8",
+        "e4f77c72-4998-1c38-68cd-2bd50710b16f",
+        "0f2a2390-dc88-0119-5685-a64630c9ddf5",
+        "f5338966-cb5f-5af5-c050-6a15fc6ceb23"
+    ]
+}

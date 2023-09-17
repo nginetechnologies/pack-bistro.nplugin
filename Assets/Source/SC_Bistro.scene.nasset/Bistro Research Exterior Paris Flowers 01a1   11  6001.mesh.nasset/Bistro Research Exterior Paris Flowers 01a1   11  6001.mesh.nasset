@@ -1,0 +1,74 @@
+{
+    "guid": "f2ae5bd8-08a0-85e5-f81d-0c70b4e8457e",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1f5b3c32-6564-a0ed-bcf6-75b35393563d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ef80a60b-3d50-945d-4457-76a59bf69252",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris Flowers 01a1   11  6001 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "834d5b14-0e09-b74e-d173-71e18f47678d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris Flowers 01a1   11  6001 Foliage Paris Flowers Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6ea7a331-621d-6398-3512-03afde8395fe",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris Flowers 01a1   11  6001 Foliage Paris Flowers"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7e7a2c1b-c3b4-18a4-c425-8d2ee709d082",
+                                "material_instance": "d20e56b2-14a4-0f1a-b11d-7c34c2addc3a"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7e7a2c1b-c3b4-18a4-c425-8d2ee709d082"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f2ae5bd8-08a0-85e5-f81d-0c70b4e8457e"
+    },
+    "dependencies": [
+        "d20e56b2-14a4-0f1a-b11d-7c34c2addc3a",
+        "7e7a2c1b-c3b4-18a4-c425-8d2ee709d082",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

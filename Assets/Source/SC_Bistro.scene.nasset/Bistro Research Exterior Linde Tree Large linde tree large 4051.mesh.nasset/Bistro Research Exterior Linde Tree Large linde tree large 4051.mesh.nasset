@@ -1,0 +1,154 @@
+{
+    "guid": "5bb5855b-ab0e-66fa-4420-4e69be646a03",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c6015fa4-c959-bfb8-ef0f-42aa164f2e17",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "9e190e14-5033-af83-9bb4-87adad344b41",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Linde Tree Large linde tree large 4051 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "21fd70d1-be80-6bc3-a85e-0d603a6494a6",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Linde Tree Large linde tree large 4051 Foliage Linde Tree Large Trunk Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "bbdbed96-3b55-1049-b387-19a4d37528d5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Linde Tree Large linde tree large 4051 Foliage Linde Tree Large Trunk"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a1067b8b-a15f-1b4a-517a-d17fa65b0ac5",
+                                "material_instance": "ffea166d-0fdd-530c-50b6-8accd77d00a3"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "a1067b8b-a15f-1b4a-517a-d17fa65b0ac5"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "535d5edc-6da8-349b-9acf-1ec1361e0c22",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Linde Tree Large linde tree large 4051 Foliage Linde Tree Large Orange Leaves.DoubleSided Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "392fcd53-8c4a-93fd-befc-e74a4128ca14",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Linde Tree Large linde tree large 4051 Foliage Linde Tree Large Orange Leaves.DoubleSided"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9b1d7f2f-9904-4463-c7a9-6f0bbd8c9d87",
+                                "material_instance": "74bd606e-1ce7-0d0e-54fa-cced62193e08"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "9b1d7f2f-9904-4463-c7a9-6f0bbd8c9d87"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "eab26eb3-0ba5-7e6c-fd06-a09e35b3d80f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Linde Tree Large linde tree large 4051 Foliage Linde Tree Large Green Leaves.DoubleSided Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "99be0ab7-9bf9-b460-b57a-9917db2185c5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Linde Tree Large linde tree large 4051 Foliage Linde Tree Large Green Leaves.DoubleSided"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "07d9ba5c-2ee2-d48a-8532-de5f1a0e25bf",
+                                "material_instance": "b5ff62ad-28b0-add3-d2f4-69fed92930d1"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "07d9ba5c-2ee2-d48a-8532-de5f1a0e25bf"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "5bb5855b-ab0e-66fa-4420-4e69be646a03"
+    },
+    "dependencies": [
+        "ffea166d-0fdd-530c-50b6-8accd77d00a3",
+        "a1067b8b-a15f-1b4a-517a-d17fa65b0ac5",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "74bd606e-1ce7-0d0e-54fa-cced62193e08",
+        "9b1d7f2f-9904-4463-c7a9-6f0bbd8c9d87",
+        "b5ff62ad-28b0-add3-d2f4-69fed92930d1",
+        "07d9ba5c-2ee2-d48a-8532-de5f1a0e25bf"
+    ]
+}

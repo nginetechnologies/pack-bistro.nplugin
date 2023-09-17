@@ -1,0 +1,74 @@
+{
+    "guid": "5ddae71b-c0f3-7cc2-7aaa-2a3f3e52f250",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "82b71a9a-60d8-b8ea-104d-984912b58175",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "1fa7054d-4798-61a0-1afd-d8c607a8bba2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior paris building 05 10  5171 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "96c2a5d2-b7a7-e6ff-07a1-243a64ac4df5",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior paris building 05 10  5171 MASTER Building Details Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f2e88a3a-ba13-e774-0bf7-b4f92cb1419b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior paris building 05 10  5171 MASTER Building Details"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "be45261c-1655-b52c-1ca5-0e59fe75a6fe",
+                                "material_instance": "8f799300-251b-7a3a-cd08-c9e41cb10da8"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "be45261c-1655-b52c-1ca5-0e59fe75a6fe"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "5ddae71b-c0f3-7cc2-7aaa-2a3f3e52f250"
+    },
+    "dependencies": [
+        "8f799300-251b-7a3a-cd08-c9e41cb10da8",
+        "be45261c-1655-b52c-1ca5-0e59fe75a6fe",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

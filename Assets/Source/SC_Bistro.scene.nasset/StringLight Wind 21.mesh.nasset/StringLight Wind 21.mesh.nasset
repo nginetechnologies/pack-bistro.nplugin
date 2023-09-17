@@ -1,0 +1,274 @@
+{
+    "guid": "b3756dd7-c9e3-5d5d-8cee-a01eb4f91355",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "68d43f1d-a6fd-284f-9102-f08d04f7818b",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b19ad2dc-3c8e-886f-128b-877025b21fb0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "StringLight Wind 21 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "71643d87-efca-b623-036d-6f155ae58801",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "StringLight Wind 21 Stringlights Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "b22ff8b4-8491-e390-d296-df9c5b2c3eed",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "StringLight Wind 21 Stringlights"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a5e412b3-df63-3247-a9e7-5a3d9f828a4b",
+                                "material_instance": "bc4bb985-2895-4313-b973-7beb1b9c3284"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "a5e412b3-df63-3247-a9e7-5a3d9f828a4b"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "5d1c1cfe-2712-afa2-672c-2879b20a11ec",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "StringLight Wind 21 Paris StringLights 01 Orange Color Emissive Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "66d96fba-8a3d-eabc-81da-53b1568d1eca",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "StringLight Wind 21 Paris StringLights 01 Orange Color Emissive"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7a808a13-7837-2f57-589a-2c94f961af32",
+                                "material_instance": "e7974047-772e-4a75-df34-3a686fe2b524"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7a808a13-7837-2f57-589a-2c94f961af32"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "5de29d28-0005-35b4-8a8a-7d91544f4dc8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "StringLight Wind 21 Paris StringLights 01 Green Color Emissive Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "77cf8b0a-1132-1127-6133-9fcc6e790c22",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "StringLight Wind 21 Paris StringLights 01 Green Color Emissive"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e1498f14-27cc-3f7f-1bde-e199872221ea",
+                                "material_instance": "8bc0a7ac-767b-ab98-52ee-b101e41b820b"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e1498f14-27cc-3f7f-1bde-e199872221ea"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "c7f6ef5a-6c45-33e4-e162-b5a20b64bcbb",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "StringLight Wind 21 Paris StringLights 01 White Color Emissive Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "752419a3-05c0-eb9e-3d88-d98482f43000",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "StringLight Wind 21 Paris StringLights 01 White Color Emissive"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "87f0fc45-495a-e41b-1af2-c43a51df17fc",
+                                "material_instance": "21daf030-72c3-b9fd-20d1-c86b6eef07a2"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "87f0fc45-495a-e41b-1af2-c43a51df17fc"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "505572fc-3862-b35f-fd10-7851829c1071",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "StringLight Wind 21 Paris StringLights 01 Pink Color Emissive Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "2c2d9bf7-0419-1e23-1126-f0e095bf5a47",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "StringLight Wind 21 Paris StringLights 01 Pink Color Emissive"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ace052fa-f1b1-e139-79ca-31d52ced47b9",
+                                "material_instance": "662852ac-03f6-eb12-011a-af0e3c8a2b0a"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "ace052fa-f1b1-e139-79ca-31d52ced47b9"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "2f52a97a-fd8d-e34d-637a-c8b07d3f288e",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "StringLight Wind 21 Paris StringLights 01 Blue Color Emissive Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "0e3f7fb4-12df-62fe-24f7-52bbd961cb29",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "StringLight Wind 21 Paris StringLights 01 Blue Color Emissive"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7c16a375-1087-0d21-6923-6f44cadf5beb",
+                                "material_instance": "f493c7f1-6d72-c098-9079-9f1170c97813"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7c16a375-1087-0d21-6923-6f44cadf5beb"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b3756dd7-c9e3-5d5d-8cee-a01eb4f91355"
+    },
+    "dependencies": [
+        "bc4bb985-2895-4313-b973-7beb1b9c3284",
+        "a5e412b3-df63-3247-a9e7-5a3d9f828a4b",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "e7974047-772e-4a75-df34-3a686fe2b524",
+        "7a808a13-7837-2f57-589a-2c94f961af32",
+        "8bc0a7ac-767b-ab98-52ee-b101e41b820b",
+        "e1498f14-27cc-3f7f-1bde-e199872221ea",
+        "21daf030-72c3-b9fd-20d1-c86b6eef07a2",
+        "87f0fc45-495a-e41b-1af2-c43a51df17fc",
+        "662852ac-03f6-eb12-011a-af0e3c8a2b0a",
+        "ace052fa-f1b1-e139-79ca-31d52ced47b9",
+        "f493c7f1-6d72-c098-9079-9f1170c97813",
+        "7c16a375-1087-0d21-6923-6f44cadf5beb"
+    ]
+}

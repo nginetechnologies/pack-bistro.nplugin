@@ -1,0 +1,74 @@
+{
+    "guid": "7c6ed0ea-861c-1f79-ecd5-7d907c4d1fec",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "50b4666a-75e3-e0ee-6a57-637c161b706b",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "3c471621-6cfd-7a84-cd39-110d49d30099",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior bux hedge box long low14 3975 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "e7213aee-310d-0498-2964-9da16a201172",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior bux hedge box long low14 3975 Foliage Bux Hedges46.DoubleSided Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "b870f55f-a16d-2d31-b71f-7f2a4923a33a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior bux hedge box long low14 3975 Foliage Bux Hedges46.DoubleSided"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "dabc7dd1-3e82-e33f-8e33-e971eada3e9e",
+                                "material_instance": "224ea7c6-537d-af3e-bc6f-d7dc4096aa91"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "dabc7dd1-3e82-e33f-8e33-e971eada3e9e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "7c6ed0ea-861c-1f79-ecd5-7d907c4d1fec"
+    },
+    "dependencies": [
+        "224ea7c6-537d-af3e-bc6f-d7dc4096aa91",
+        "dabc7dd1-3e82-e33f-8e33-e971eada3e9e",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

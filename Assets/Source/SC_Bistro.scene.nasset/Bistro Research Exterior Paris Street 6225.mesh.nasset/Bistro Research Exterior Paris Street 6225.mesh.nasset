@@ -1,0 +1,114 @@
+{
+    "guid": "0d6b7f7b-0ce9-0e3c-9b18-5e290fe7a1ce",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "59b46706-70d7-a405-3ffc-d8c81032ccf3",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "3baa922a-0c32-273b-b029-3841553c32d7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris Street 6225 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6e09c58a-2250-0544-81ed-cfceff37e82d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris Street 6225 Pavement Cobblestone Wet BLENDSHADER Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "34d19b14-77e1-12f4-1cb4-0ec7dd5e4a2f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris Street 6225 Pavement Cobblestone Wet BLENDSHADER"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8ad04ef0-871d-27a2-9efb-3fa2006b06db",
+                                "material_instance": "8f2429d5-5b46-95ea-c5eb-2abf237b6971"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "8ad04ef0-871d-27a2-9efb-3fa2006b06db"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "882a2b00-8958-3d0b-0717-a5e9c96afe5c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris Street 6225 Pavement Cobblestone Wet Leaves BLENDSHADER Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "da52f0dc-d4cd-dbb1-b490-a18da1d1327b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris Street 6225 Pavement Cobblestone Wet Leaves BLENDSHADER"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "87fe9011-120c-ea06-e53e-c18ec40f098e",
+                                "material_instance": "858c3dde-2d84-44df-1cc3-e1c02c69eb42"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "87fe9011-120c-ea06-e53e-c18ec40f098e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0d6b7f7b-0ce9-0e3c-9b18-5e290fe7a1ce"
+    },
+    "dependencies": [
+        "8f2429d5-5b46-95ea-c5eb-2abf237b6971",
+        "8ad04ef0-871d-27a2-9efb-3fa2006b06db",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "858c3dde-2d84-44df-1cc3-e1c02c69eb42",
+        "87fe9011-120c-ea06-e53e-c18ec40f098e"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "guid": "5646231c-3761-73eb-5ceb-2baf83acab28",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b09075fd-ef11-b5ee-02de-c81de1a3d363",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "1a753d5d-cc7e-2187-a980-2e223b5c51d8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris BistroAwning 02A 4107 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6eed7265-ca61-354e-1042-6da681aaa053",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris BistroAwning 02A 4107 Awnings Hotel Fabric Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "22b1640c-c1eb-fbc8-1792-0716c1eb2779",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris BistroAwning 02A 4107 Awnings Hotel Fabric"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b6e1c89d-7ecb-3eb9-74f4-2c1272b2fcb2",
+                                "material_instance": "a7081b00-d8ef-d2c3-9d85-78e542a41ca8"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "b6e1c89d-7ecb-3eb9-74f4-2c1272b2fcb2"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "5646231c-3761-73eb-5ceb-2baf83acab28"
+    },
+    "dependencies": [
+        "a7081b00-d8ef-d2c3-9d85-78e542a41ca8",
+        "b6e1c89d-7ecb-3eb9-74f4-2c1272b2fcb2",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "guid": "20d951ed-d166-9d04-ed91-8703e0415031",
+    "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+    "dependencies": [
+        "ade8b81e-1edf-443a-8af7-37473edf1390",
+        "f513f9ce-18b8-440f-2438-1b31d6e7985b",
+        "5ecdca34-ba8e-8a2c-ac41-d4162e5ce145",
+        "c5c4af2c-98ea-c390-53b2-1df40d7364e9",
+        "6fdb470c-63c4-2fdf-499c-cd02504703ec"
+    ],
+    "material": "ade8b81e-1edf-443a-8af7-37473edf1390",
+    "descriptor_contents": [
+        {
+            "texture": "f513f9ce-18b8-440f-2438-1b31d6e7985b"
+        },
+        {
+            "texture": "5ecdca34-ba8e-8a2c-ac41-d4162e5ce145"
+        },
+        {
+            "texture": "c5c4af2c-98ea-c390-53b2-1df40d7364e9"
+        },
+        {
+            "texture": "6fdb470c-63c4-2fdf-499c-cd02504703ec"
+        }
+    ]
+}

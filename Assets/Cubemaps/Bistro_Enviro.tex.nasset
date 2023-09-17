@@ -1,0 +1,122 @@
+{
+    "guid": "d39447bd-cf0f-5a98-be1a-392627ba94cf",
+    "source": "Bistro_Enviro.exr",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        512
+    ],
+    "preset": 9,
+    "intensity_factor": 1.3,
+    "usage_flags": 6,
+    "array_size": 6,
+    "bc_data": {
+        "format": 143,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 1572864
+            },
+            {
+                "level": 1,
+                "offset": 1572864,
+                "size": 393216
+            },
+            {
+                "level": 2,
+                "offset": 1966080,
+                "size": 98304
+            },
+            {
+                "level": 3,
+                "offset": 2064384,
+                "size": 24576
+            },
+            {
+                "level": 4,
+                "offset": 2088960,
+                "size": 6144
+            },
+            {
+                "level": 5,
+                "offset": 2095104,
+                "size": 1536
+            },
+            {
+                "level": 6,
+                "offset": 2096640,
+                "size": 384
+            },
+            {
+                "level": 7,
+                "offset": 2097024,
+                "size": 96
+            },
+            {
+                "level": 8,
+                "offset": 2097120,
+                "size": 96
+            },
+            {
+                "level": 9,
+                "offset": 2097216,
+                "size": 96
+            }
+        ]
+    },
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 393216
+            },
+            {
+                "level": 1,
+                "offset": 393216,
+                "size": 98304
+            },
+            {
+                "level": 2,
+                "offset": 491520,
+                "size": 24576
+            },
+            {
+                "level": 3,
+                "offset": 516096,
+                "size": 6144
+            },
+            {
+                "level": 4,
+                "offset": 522240,
+                "size": 1536
+            },
+            {
+                "level": 5,
+                "offset": 523776,
+                "size": 384
+            },
+            {
+                "level": 6,
+                "offset": 524160,
+                "size": 96
+            },
+            {
+                "level": 7,
+                "offset": 524256,
+                "size": 96
+            },
+            {
+                "level": 8,
+                "offset": 524352,
+                "size": 96
+            },
+            {
+                "level": 9,
+                "offset": 524448,
+                "size": 96
+            }
+        ]
+    }
+}

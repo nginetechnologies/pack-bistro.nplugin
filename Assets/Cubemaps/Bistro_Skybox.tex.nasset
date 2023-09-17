@@ -1,0 +1,132 @@
+{
+    "guid": "88c70339-e6ae-4790-a37c-e973269ae8c5",
+    "source": "Bistro_Skybox.exr",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        1024.0,
+        1024.0
+    ],
+    "preset": 9,
+    "usage_flags": 6,
+    "array_size": 6,
+    "bc_data": {
+        "format": 143,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 50331648
+            },
+            {
+                "level": 1,
+                "offset": 50331648,
+                "size": 12582912
+            },
+            {
+                "level": 2,
+                "offset": 62914560,
+                "size": 3145728
+            },
+            {
+                "level": 3,
+                "offset": 66060288,
+                "size": 786432
+            },
+            {
+                "level": 4,
+                "offset": 66846720,
+                "size": 196608
+            },
+            {
+                "level": 5,
+                "offset": 67043328,
+                "size": 49152
+            },
+            {
+                "level": 6,
+                "offset": 67092480,
+                "size": 12288
+            },
+            {
+                "level": 7,
+                "offset": 67104768,
+                "size": 3072
+            },
+            {
+                "level": 8,
+                "offset": 67107840,
+                "size": 768
+            },
+            {
+                "level": 9,
+                "offset": 67108608,
+                "size": 192
+            },
+            {
+                "level": 10,
+                "offset": 67108800,
+                "size": 48
+            }
+        ]
+    },
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 1572864
+            },
+            {
+                "level": 1,
+                "offset": 1572864,
+                "size": 393216
+            },
+            {
+                "level": 2,
+                "offset": 1966080,
+                "size": 98304
+            },
+            {
+                "level": 3,
+                "offset": 2064384,
+                "size": 24576
+            },
+            {
+                "level": 4,
+                "offset": 2088960,
+                "size": 6144
+            },
+            {
+                "level": 5,
+                "offset": 2095104,
+                "size": 1536
+            },
+            {
+                "level": 6,
+                "offset": 2096640,
+                "size": 384
+            },
+            {
+                "level": 7,
+                "offset": 2097024,
+                "size": 96
+            },
+            {
+                "level": 8,
+                "offset": 2097120,
+                "size": 96
+            },
+            {
+                "level": 9,
+                "offset": 2097216,
+                "size": 96
+            },
+            {
+                "level": 10,
+                "offset": 2097312,
+                "size": 96
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "guid": "bd820e5a-8bdf-e27a-3d80-cf97aa629752",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f47b63a9-0f79-83d3-c741-7b7164542bed",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "2ac5a0b8-6801-eaec-58af-33bfa5c9a40d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris NapkinHolder 01A   8  6131 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "053095f8-f4c5-60ba-3054-b6396fbfa561",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris NapkinHolder 01A   8  6131 NapkinHolder Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "c7090d6c-3749-fdc1-968c-2c3a604fe615",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris NapkinHolder 01A   8  6131 NapkinHolder"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bb6794ca-c438-5615-3c6e-0e70bca214f7",
+                                "material_instance": "210780a4-fe89-1dff-32dc-cd1fb1831fbd"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "bb6794ca-c438-5615-3c6e-0e70bca214f7"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "bd820e5a-8bdf-e27a-3d80-cf97aa629752"
+    },
+    "dependencies": [
+        "210780a4-fe89-1dff-32dc-cd1fb1831fbd",
+        "bb6794ca-c438-5615-3c6e-0e70bca214f7",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

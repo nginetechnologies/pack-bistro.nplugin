@@ -1,0 +1,74 @@
+{
+    "guid": "b8d1958e-0a81-0ae3-680c-3fec768ae0c7",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "adb6adcd-beb5-9752-4962-bd78ef843428",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "8b2bff91-bf30-a3bf-7a57-2ca55d401ccd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Paris Chair 01 Mesh 01   2  5913 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "4d5f3777-a0aa-2561-9db6-27dfdef7a371",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Paris Chair 01 Mesh 01   2  5913 Paris Chair 01 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "143a7faf-ddc7-6453-59ff-32bd5c188b82",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Paris Chair 01 Mesh 01   2  5913 Paris Chair 01"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e6b07c34-3054-3405-2bb8-91f4fd3ea652",
+                                "material_instance": "cc64a8b5-b5d0-9ab8-21e0-11f70e9f63f8"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e6b07c34-3054-3405-2bb8-91f4fd3ea652"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b8d1958e-0a81-0ae3-680c-3fec768ae0c7"
+    },
+    "dependencies": [
+        "cc64a8b5-b5d0-9ab8-21e0-11f70e9f63f8",
+        "e6b07c34-3054-3405-2bb8-91f4fd3ea652",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

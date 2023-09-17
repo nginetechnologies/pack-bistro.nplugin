@@ -1,0 +1,74 @@
+{
+    "guid": "bc4fee1e-e6cd-3dfd-ebb1-b2f69f873d89",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0e658b56-9a1d-d900-4ef5-b11e0ab11e31",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b785c24f-71bb-dfe7-cc74-ecd713b6dedd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bistro Research Exterior Ivy Ivy 4025 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6e1ed069-5fbe-fcd3-52f3-82445d5febd0",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bistro Research Exterior Ivy Ivy 4025 Foliage Ivy branches Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3d5ff12a-f671-1e0c-5489-94472cf2d810",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bistro Research Exterior Ivy Ivy 4025 Foliage Ivy branches"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d466c06a-a11c-fd58-5422-d0479db925a8",
+                                "material_instance": "d205de6e-f57c-dddb-c807-6dd54ec6ba3c"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "d466c06a-a11c-fd58-5422-d0479db925a8"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "bc4fee1e-e6cd-3dfd-ebb1-b2f69f873d89"
+    },
+    "dependencies": [
+        "d205de6e-f57c-dddb-c807-6dd54ec6ba3c",
+        "d466c06a-a11c-fd58-5422-d0479db925a8",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}
